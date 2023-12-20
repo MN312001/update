@@ -20,4 +20,3 @@
 - | [Instagram](https://www.instagram.com/mn312001) |
 - | [ROOT ONLINE](https://t.me/ROOT_MN312001) |
 - | [APK Mod Android](https://t.me/APK_MN312001) |
-- 
