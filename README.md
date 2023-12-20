@@ -1,6 +1,4 @@
-## Update Application Android Premium 🚨 
-## تحديث تطبيقات أندرويد بريميوم 
-
+## Update Application Android Premium 🚨
 ## Mohammad-Ismail
 
 - 
