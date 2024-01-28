@@ -11,7 +11,15 @@ Base: 4.2.7
 
 Nuevo Systema de Actualización 
 
- Actualización AntiBaneo disponible ",
+ Actualización AntiBaneo disponible
+
+root oneline Mohammad Ismail
+
+abo Al-Nasr 913 VIP
+
+Root 
+
+Vip,
 "download":"https://youtu.be/rY2otd2NacA"
 }
   ]
