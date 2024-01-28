@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"6.32",
+ "version":"6.33",
  "title":"Update Disponible",
  "description":" Oficial v6.32
 
