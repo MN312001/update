@@ -3,9 +3,9 @@
     {
  "version":"6.32",
  "title":"Update Disponible",
- "description":" Oficial v22
+ "description":" Oficial v6.32
 
-Base: 4.2.7
+Base: 6.32
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
