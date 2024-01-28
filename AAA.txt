@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"4.2.7",
+ "version":"6.32",
  "title":"Update Disponible",
  "description":" Oficial v22
 
