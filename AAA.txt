@@ -11,7 +11,7 @@ Base: 4.2.7
 
 Nuevo Systema de Actualización 
 
- Actualización AntiBaneo disponible
+Actualización AntiBaneo disponible
 
 root oneline Mohammad Ismail
 
