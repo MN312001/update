@@ -1,5 +1,5 @@
 {
-  "fnmods_update": [
+  "mhmd_update": [
     {
  "version":"6.33",
  "title":"Update Disponible",
