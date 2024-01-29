@@ -3,7 +3,7 @@
     {
  "version":"6.33",
  "title":"⚙️Update New⚙️",
- "description":" Oficial v6.32
+ "description":" Oficial v6.33
 
 Base: 6.32
 
