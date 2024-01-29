@@ -3,7 +3,8 @@
     {
  "version":"6.33",
  "title":"⚙️Update New⚙️",
- "description":" Oficial v6.33
+ "description":"<b><font color=#10a3f3>⚙️Update New⚙️</font><b>
+Oficial v6.33
 
 Base: 6.32
 
