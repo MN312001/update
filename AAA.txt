@@ -2,7 +2,7 @@
   "mhmd_update": [
     {
  "version":"6.33",
- "title":"Update Disponible",
+ "title":"🚨 𝙐𝙋𝘿𝘼𝙏𝙀 𝙉𝙀𝙒 ( تحديث جديد ) 🚨",
  "description":" Oficial v6.32
 
 Base: 6.32
