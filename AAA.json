@@ -1,22 +1,19 @@
 {
-  "mhmd_update": [
-    {
- "version":"4.2.1",
- "title":"⚙️Update New⚙️",
+  "versionCode": 10,
+  "versionName": "1.0",
+  "Msg": "⚙️Update New⚙️",
  "description":"⚙️Update New⚙️
       
-Version Oficial; v4.2.1
+Version Oficial; v6.32
 
 ₪ New update is available, to continue in our app please update it.
 
-❏ What's new:
+  ❏ What's new:
 - Performance Improvements.
 - Bug Fixes.
 - New Features introduced.
 - Others minor changes.
 
 Thanks for using",
-"download":"https://telegram.me/APK_MN312001"
-}
-  ]
+  "downloadLink": "https://t.me/@smalicode"
 }
