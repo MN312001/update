@@ -1,13 +1,9 @@
 {
   "versionCode": 10,
   "versionName": "1.0",
-  "Msg": "⚙️Update New⚙️
-      
-Version Oficial; v6.32
+  "Msg": "New update is available, to continue in our app please update it.
 
-₪ New update is available, to continue in our app please update it.
-
-❏ What's new:
+What's new:
 - Performance Improvements.
 - Bug Fixes.
 - New Features introduced.
@@ -15,4 +11,4 @@ Version Oficial; v6.32
 
 Thanks for using",
   "downloadLink": "https://t.me/@smalicode"
-}
+  }
