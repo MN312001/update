@@ -2,7 +2,7 @@
 ## Mohammad-Ismail
 
 - Android Mod applications are free of ads and unlock premium features
-- Supports modern Android versions from Android 8 to 14
+- Supports modern Android versions from Android 5 to 14
 - Problem-free and constantly updated
 
 
