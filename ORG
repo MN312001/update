@@ -2,7 +2,7 @@
 "version": "2024.1.1.1",
 "title": "🚨 𝙐𝙋𝘿𝘼𝙏𝙀 𝙉𝙀𝙒 ( تحديث جديد ) 🚨",
 "NewVersion": "2024.1.1.0",
-"downloadLink": "https://t.me/APK_MN312001/1991",
+"downloadLink": "https://t.me/APK_MN312001",
 "changeLogMessage": "𝗔 𝗡𝗘𝗪 𝗨𝗣𝗗𝗔𝗧𝗘 𝗜𝗦 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗙𝗢𝗥 𝗧𝗛𝗘 𝗔𝗣𝗣.𝗣𝗟𝗘𝗔𝗦𝗘 𝗨𝗣𝗗𝗔𝗧𝗘.",
 "negativebtn": "𝗟𝗔𝗧𝗘𝗥 📤",
 "positivebtn": "𝗨𝗣𝗗𝗔𝗧𝗘 📥",
