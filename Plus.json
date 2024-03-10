@@ -1,22 +1,18 @@
 {
-  "mhmd_update": [
-    {
- "version":"MNGram_v1.0",
- "title":"Update Disponible",
- "description":"⚙️Update New⚙️
-      
-Version Oficial; v MNGram_v1.0
+  "Version": "9.3",
+  "Code": 2017033092,
+  "Message": "☰ تحديث جديد 🆕
 
-₪ New update is available, to continue in our app please update it.
+ | النسخة الرسمية : v 9.3 |
 
-❏ What's new:
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
+ ❏ التغيرات في التطبيق 🛠️
+  
+ - تم اصلاح جميع المشاكل 🔰
+ - احدث اصدار متوفر ب المتجر 🔝
+ - تم تقديم ميزات جديدة 💥
 
-Thanks for using",
-"download":"https://devuploads.com/fnvqqsub2nhj"
-}
-  ]
+ ₪ للمتابعة في استخدام التطبيق يرجى تحديثه اضغط على كلمة تحديث 📥
+  
+ شكرا للاستخدام ❤️",
+  "Download": "https://telegram.me/APK_MN312001"
 }
